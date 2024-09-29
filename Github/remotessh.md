@@ -5,7 +5,7 @@ Note that this is not the same as doing it with the https url, if you use https 
 ## How?
 1. Make a new repository on Github. Don't add README.md if the local repository has any files.
 3. Copy the SSH url from the github repository.
-4. In terminal (location: local repository) write:
+4. In terminal (location: local repository) write (url is placeholder for the copied ssh url):
    
    ```git remote add origin url```
 5. In terminal write ('main' is the name of the branch, change accordingly):
