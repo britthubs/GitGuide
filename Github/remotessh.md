@@ -1,6 +1,6 @@
 # Making a remote github repository from a local git repository (using SSH)
 
-Note that this is not the same as doing it with the https url, if you use https go to [test](test). If you want to switch to SSH, go to [the instructions for setting up ssh](setupssh.md).
+Note that this is not the same as doing it with the https url, if you use https go to [the instructions for remote control with https](Github/remotehttps.md). If you want to switch to SSH, go to [the instructions for setting up ssh](Github/setupssh.md) first.
 
 ## How?
 1. Make a new repository on Github. Don't add README.md if the local repository has any files.
