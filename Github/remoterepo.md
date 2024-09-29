@@ -1,12 +1,14 @@
 # Making a remote github repository from a local git repository (using SSH)
 
+Note that this is not the same as doing it with the https url, if you use https go to [test](test). If you want to switch to SSH, go to [test1](test2)
+
 ## How?
 1. Make a new repository on Github. Don't add README.md if the local repository has any files.
-2. Copy the SSH url from the github repository.
-3. In terminal (location: local repository) write:
+3. Copy the SSH url from the github repository.
+4. In terminal (location: local repository) write:
    
    ```git remote add origin url```
-4. In terminal write ('main' is the name of the branch, change accordingly):
+5. In terminal write ('main' is the name of the branch, change accordingly):
 
    ```git push -u origin main```
    
