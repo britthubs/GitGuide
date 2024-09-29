@@ -19,9 +19,12 @@ Compiling a guide that has instructions written out as an easy reference. This i
 The instructions are written in .md files so that it is easily readable without having to download anything extra. The instruction for a particular subject can be found in the list of [contents](#contents). Feel free to add suggestions/improvements for the instructions in issues for example if instructions could be done easier.
 
 ## Contents
-- [Making a requirements.txt for pip and python](/Other/requirementspip.md)
-- [Remote repository from local repository](/Github/remoterepo.md)
 
+### Github folder
+- [Create remote repository on Github from local git repository](/Github/remoterepo.md)
+- [Change from https to ssh to control remote repositories](/Github/changessh.md)
+### Other folder
+- - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 ## Contributors
 Author and idea: @britthubs
 
