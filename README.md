@@ -23,4 +23,5 @@ The instructions are written in .md files so that it is easily readable without 
 
 ## Authors
 author and idea: @britthubs
+
 contributor and mentor: @mai-soup
