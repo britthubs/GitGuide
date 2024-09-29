@@ -21,7 +21,7 @@ The instructions are written in .md files so that it is easily readable without 
 ## Contents
 
 ### Github folder
-- [Create remote repository on Github from local git repository (if you're using ssh)](/Github/remoterepo.md)
+- [Create remote repository on Github from local git repository (if you're using ssh)](/Github/remotessh.md)
 - [Change from https to ssh to control remote repositories](/Github/changessh.md)
 - [Set up ssh](/Github/setupssh.md)
 ### Other folder
