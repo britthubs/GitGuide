@@ -22,7 +22,7 @@ The instructions are written in .md files so that it is easily readable without 
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 
 
-## Authors
+## Contributors
 Author and idea: @britthubs
 
 Contributor and mentor: @mai-soup
