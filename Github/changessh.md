@@ -1,5 +1,8 @@
 # Changing from https to ssh to control remote repositories
 
+## What?
+If you have recently changed to ssh to control remote repositories, there might be repositories locally where you still use https. These are instructions to change from https to ssh with these repositories.
+
 ## How?
 1. Go to the local folder in the terminal and type the following:
 
