@@ -20,7 +20,7 @@ The instructions are written in .md files so that it is easily readable without 
 
 ## Contents
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
-
+- [Remote repository from local repository](/Other/remoterepo.md)
 
 ## Contributors
 Author and idea: @britthubs
