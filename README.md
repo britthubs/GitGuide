@@ -1,5 +1,5 @@
 # GitGuide
-Guide to basic git and github operations from a non-experienced git and github user.
+Guide to basic git and github operations (and other non-related ones) from a non-experienced git and github user.
 
 ## Table of contents
 - [Overview](#overview)
@@ -22,6 +22,6 @@ The instructions are written in .md files so that it is easily readable without 
 
 
 ## Authors
-author and idea: @britthubs
+Author and idea: @britthubs
 
-contributor and mentor: @mai-soup
+Contributor and mentor: @mai-soup
