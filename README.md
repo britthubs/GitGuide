@@ -23,6 +23,7 @@ The instructions are written in .md files so that it is easily readable without 
 ### Github folder
 - [Create remote repository on Github from local git repository (if you're using ssh)](/Github/remoterepo.md)
 - [Change from https to ssh to control remote repositories](/Github/changessh.md)
+- [Set up ssh](/Github/setupssh.md)
 ### Other folder
 - - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 ## Contributors
