@@ -5,7 +5,7 @@ Note that this is not the same as doing it with the https url, if you use https 
 ## How?
 1. Make a new repository on Github. Don't add README.md if the local repository has any files.
 2. Copy the SSH url from the github repository.
-3. Make sure you're local file has .git, to do this in terminal (location: local repository) write:
+3. Make sure your local file has .git, to do this in terminal (location: local repository) write:
 
    ```git init```
 4. In terminal write (url is placeholder for the copied ssh url):
