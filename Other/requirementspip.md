@@ -28,8 +28,8 @@ Finally, to install the dependencies with the requirements.txt file, write follo
 1. Make sure to activate your project environement (python) before making the requirements.txt file, if you haven't made one yet, make one and activate it. (See above for explanation)
 2. Before making the requirements.txt file, make sure to find the right location for it. This file should be in the directory of your project.
 3. To make the requirements.txt file, type the following in the terminal (at the right location):
-
-```pip freeze > requirements.txt```
+  
+   ```pip freeze > requirements.txt```
 
 ## An example of a requirements.txt file
 An example of what the file looks like can be seen here:
