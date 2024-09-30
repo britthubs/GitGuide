@@ -27,6 +27,7 @@ The instructions are written in .md files so that it is easily readable without 
 - [Set up ssh](/Github/setupssh.md)
 ### Git folder
 - [Commands for branching](/Git/branchcommands.md)
+- [Useful commands with git](/Git/gitcommands.md)
 ### Other folder
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 - [Handy commands for terminal](/Other/commands.md)
