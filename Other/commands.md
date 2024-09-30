@@ -1,4 +1,4 @@
-# Random handy commands for terminal
+# Random useful commands for terminal
 
 ## Make a directory
 ```mkdir nameofdirectory```
