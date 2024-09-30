@@ -1,4 +1,4 @@
-# Handy commands using git
+# Useful commands using git
 
 ## Count lines of code in an entire repo 
 ```git ls-files | xargs wc -l```
