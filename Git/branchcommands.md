@@ -11,7 +11,7 @@ Both ways can be used:
 2. Restoring file from another branch: ```git checkout -- filepath```
    
 Both actions are split with ```git switch``` and ```git restore```
-1. Changing branches with ```git switch branchname```
+1. Changing branches with: ```git switch branchname```
 2. Restoring files from another branch with: ```git restore -- filepath```
 
 For a more complete explanation go [here](https://stackoverflow.com/questions/57265785/whats-the-difference-between-git-switch-and-git-checkout-branch).
