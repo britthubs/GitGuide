@@ -30,7 +30,7 @@ The instructions are written in .md files so that it is easily readable without 
 - [Useful commands with git](/Git/gitcommands.md)
 ### Other folder
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
-- [Handy commands for terminal](/Other/commands.md)
+- [Useful commands for terminal](/Other/commands.md)
 ## Contributors
 Author and idea: @britthubs
 
