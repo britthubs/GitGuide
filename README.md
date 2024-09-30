@@ -25,6 +25,8 @@ The instructions are written in .md files so that it is easily readable without 
 - [Create remote repository on Github from local git repository (if you're using https)](/Github/remotehttps.md)
 - [Change from https to ssh to control remote repositories](/Github/changessh.md)
 - [Set up ssh](/Github/setupssh.md)
+### Git folder
+- [Commands for branching](/Git/branchcommands.md)
 ### Other folder
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 - [Handy commands for terminal](/Other/commands.md)
