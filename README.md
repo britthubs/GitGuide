@@ -13,7 +13,7 @@ Guide to basic git and github operations (and other non-related ones) from a non
 
 ### The goal
 
-Compiling a guide that has instructions written out as an easy reference. This is made so that in the future, having to repeatedly google 'how was this supposed to be done again?' is no longer needed (I hope).
+Compiling a guide that has instructions written out as an easy reference. This is made so that in the future, having to repeatedly google 'how was this supposed to be done again?' is no longer needed (I hope). This is made as reminders for myself :)
 
 ### Usage
 The instructions are written in .md files so that it is easily readable without having to download anything extra. The instruction for a particular subject can be found in the list of [contents](#contents). Feel free to add suggestions/improvements for the instructions in issues for example if instructions could be done easier.
