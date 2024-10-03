@@ -28,6 +28,7 @@ The instructions are written in .md files so that it is easily readable without 
 ### Git folder
 - [Commands for branching](/Git/branchcommands.md)
 - [Useful commands with git](/Git/gitcommands.md)
+- [Commits](/Git/commits.md)
 ### Other folder
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 - [Useful commands for terminal](/Other/commands.md)
