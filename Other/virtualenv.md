@@ -21,7 +21,7 @@ deactivate
 ## Listing the packages already installed in the environment
 To list the already installed packages in your environment, the following command can be used while the virtual environment is activated:
 ```
- pip freeze --local
+pip freeze --local
 ```
 or
 ```
