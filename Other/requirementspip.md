@@ -9,15 +9,7 @@ Those who want to download your project (or if you are coming back to the projec
 and their respective versions that were used for the project which are not automatically included. Installing each seperately can be time-consuming. If you make a requirements.txt
 file, the only thing the other person (or future you) has to do is activate an environment and install the requirements.txt file.
 
-If the environemnt hasn't been created yet, this can be done with typing the following command in the terminal (at a location where u can find it back):
-
-```python3 -m venv yourenvironmentnamehere``` for example: ```python3 -m pyenv```
-
-This will create a folder for your environment.
-
-To activate the environment you use the command:
-
-```source yourenvironmentfolderpath/bin/activate``` for example ```python3 -m /Users/britthubs/environments/pyenv/bin/activate```
+If the environemnt hasn't been created yet, you can check out [this guide](/other/virtualenv.md) on how to create and activate virtual environments (python3).
 
 Finally, to install the dependencies with the requirements.txt file, write following command in the terminal:
 
@@ -25,7 +17,7 @@ Finally, to install the dependencies with the requirements.txt file, write follo
 
 
 ## How? 
-1. Make sure to activate your project environement (python) before making the requirements.txt file, if you haven't made one yet, make one and activate it. (See above for explanation)
+1. Make sure to activate your project environement (python) before making the requirements.txt file, if you haven't made one yet, make one and activate it. (See [this guide](/other/virtualenv.md) for explanation)
 2. Before making the requirements.txt file, make sure to find the right location for it. This file should be in the directory of your project.
 3. To make the requirements.txt file, type the following in the terminal (at the right location):
   
