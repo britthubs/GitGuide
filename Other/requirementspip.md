@@ -9,7 +9,7 @@ Those who want to download your project (or if you are coming back to the projec
 and their respective versions that were used for the project which are not automatically included. Installing each seperately can be time-consuming. If you make a requirements.txt
 file, the only thing the other person (or future you) has to do is activate an environment and install the requirements.txt file.
 
-If the environemnt hasn't been created yet, you can check out [this guide](/other/virtualenv.md) on how to create and activate virtual environments (python3).
+If the environemnt hasn't been created yet, you can check out [this guide](/Other/virtualenv.md) on how to create and activate virtual environments (python3).
 
 Finally, to install the dependencies with the requirements.txt file, write following command in the terminal:
 
