@@ -31,6 +31,7 @@ Only when you haven't pushed the commits to the remote repository yet, you can u
 If you do this when you have already pushed the commits, there will be a conflict when pushing the new commit. Following images show this problem. The first image shows the four commits initially, the second image shows the local repository situation, where the the last three commits have been removed and a new commit has been added (for example when you unknowingly already started working on top of the removal of the commits). This new commit is now called E. Putting both of these situations together, it is clear that pushing the local A-E commits will conflict with the A-B-C-D commits in the remote repository. 
 
 ![initial commits](/images/init.png)![local commits](/images/local.png) 
+
 (credits to [@mai-soup](https://github.com/mai-soup) for these images and the explanation)
 
 The given error when trying to push will look something like this:
