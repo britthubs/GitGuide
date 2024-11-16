@@ -32,6 +32,7 @@ The instructions are written in .md files so that it is easily readable without 
 ### Other folder
 - [Making a requirements.txt for pip and python](/Other/requirementspip.md)
 - [Useful commands for terminal](/Other/commands.md)
+- [Virtual environments (python3)](/Other/virtualenv.md)
 ## Contributors
 Author and idea: @britthubs
 
