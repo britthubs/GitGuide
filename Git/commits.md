@@ -48,6 +48,7 @@ If you've already pushed the commits, there is a way to remove the commits safel
 Using the same example, you can, instead of removing commits, make a commit that's the inverse of the commits you want to remove. Visually this would look something like:
 
 ![solution](/images/solution.png)
+
 (credits to [@mai-soup](https://github.com/mai-soup) for this images and the explanation)
 It is important you are committing the inverse of the latest commit first, in this case that would be D, followed by C and then B. In general, to commit an inverse of a commit, the following command can be used:
 ```git revert --no-commit hashcodeofcommit``` Where hashcodeofcommit needs to be replaced with the hash code of the commit that should be inverted. This code can be found in the log of the commits. If the log (using ```git log --oneline``` looks like this:
