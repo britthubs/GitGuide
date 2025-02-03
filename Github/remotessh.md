@@ -15,6 +15,6 @@ Note that this is not the same as doing it with the https url, if you use https 
 
    ```git push -u origin main```
    
-6. Do step 4 for each branch (make sure to work in the respective branch when writing the command). For example:
+6. Do step 5 for each branch (make sure to work in the respective branch when writing the command). For example:
 
    ```git push -u origin secondbranch```
