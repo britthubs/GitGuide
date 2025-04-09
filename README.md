@@ -36,4 +36,4 @@ The instructions are written in .md files so that it is easily readable without 
 ## Contributors
 Author and idea: @britthubs
 
-Contributor, mentor, best friend and overal smart brains helping me for most of this: [@mai-soup](https://github.com/mai-soup)
+Contributor, mentor, best friend and overall smart brains helping me for most of this: [@mai-soup](https://github.com/mai-soup)
